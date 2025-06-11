@@ -1,0 +1,7 @@
+{
+	"url1":"http://localhost:4200",
+	"url2":"https://fkvms.synlabs.io/index.html#/scans/forward",
+	"outputPath":"D:/RPAOutput/out_put/tripr/drive",
+	"labelPrinterName":"",
+	"invoicePrinterName":""	
+}
